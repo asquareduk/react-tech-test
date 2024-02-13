@@ -7,7 +7,7 @@ Please create a fork of this repo and make sure it is public. Click the Fork but
 ![Screenshot 2023-06-16 at 15 55 52](https://github.com/asquareduk/react-native-tech-test/assets/17218062/daa4f402-480a-47c5-9a9f-95728238575d)
 
 ## Introduction
-This challenge will require you to use Javascript and React to build out a couple of pages that display data from an API.
+This challenge will require you to use Typescript and React to build out a couple of pages that display data from an API.
 
 The API we will use for this (because it's free and doesn't require any authentication) is [Punk API](https://punkapi.com/documentation/v2).
 
